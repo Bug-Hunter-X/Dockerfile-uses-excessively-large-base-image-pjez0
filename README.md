@@ -1,0 +1,1 @@
+This repository demonstrates an example of an inefficient Dockerfile and its optimized solution. The original Dockerfile utilizes a large base image, resulting in larger image sizes and slower builds. The solution showcases how to use a more specific, smaller base image to improve efficiency.  This is a common but easily avoided error. 
